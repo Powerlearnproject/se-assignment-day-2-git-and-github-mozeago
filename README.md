@@ -1,5 +1,22 @@
 # se-day-2-git-and-github
-## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?  
+_Version control is a system that records changes to files in your code over time so that you can recall specific version stages later. It has some notable terms:_  
+1. repo: This is where the code is stored online.  
+2. commit: This is when you save your changes to the repo.  
+3. branch: This is a separate version of the code in your repo. It allows you to work on something different, test it before merging it to the main codebase.  
+4. merge: This is when you combine two branches into one. It helps you to keep your main branch intergrated with the latest changes.  
+5. cloning: This is making a copy of your online codebase so that you can work on the features you want.
+6. Push:This is sending your locally made changes to the online repo for storage.  
+7. Pull: This is getting the latest changes from the online repo to your local machine.  
+
+Github is a web-based platform with Collaboration tools like pull requests, has ability to share your work with others,allows you to host your Git repositories online, integrates with various development tools easily, it has tools for creating documentation and wikis directly within the repository itself.  
+
+Version Control Helps Maintain Project Integrity by:
+1. Keeping a detailed history of changes.  
+2. Allowing you to revert to previous versions if needed.  
+3. Helps in identifying and resolving conflicts before merging the changes.  
+4. Developers can work on new features or fixes in isolated branches without disrupting the main project code. Once the changes are tested and verified, they can be merged back into the main branch, ensuring stability and integrity.  
+5. Allowing multiple developers to work on different parts of a project simultaneously, ensuring that everyone's work can be integrated smoothly.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
